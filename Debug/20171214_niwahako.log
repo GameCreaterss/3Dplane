@@ -1,0 +1,27 @@
+﻿  title.cpp
+  timer.cpp
+  sound.cpp
+  shadow.cpp
+  score.cpp
+  result.cpp
+  player.cpp
+  meshwall.cpp
+  meshfield.cpp
+  main.cpp
+  light.cpp
+  life.cpp
+  item.cpp
+  input.cpp
+  game.cpp
+  fade.cpp
+  explosion.cpp
+  effect.cpp
+  camera.cpp
+c:\users\panzehong\source\repos\3dplane\camera.cpp(95): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\panzehong\source\repos\3dplane\camera.cpp(97): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\panzehong\source\repos\3dplane\camera.cpp(101): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\panzehong\source\repos\3dplane\camera.cpp(103): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  bullet.cpp
+  コードを生成中...
+  20171214_niwahako.vcxproj -> C:\Users\panzehong\Source\Repos\3Dplane\Debug\20171214_niwahako.exe
+  20171214_niwahako.vcxproj -> C:\Users\panzehong\Source\Repos\3Dplane\Debug\20171214_niwahako.pdb (Full PDB)

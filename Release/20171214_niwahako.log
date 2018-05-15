@@ -1,0 +1,29 @@
+﻿  bullet.cpp
+  camera.cpp
+camera.cpp(95): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(97): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(101): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera.cpp(103): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  effect.cpp
+  explosion.cpp
+  fade.cpp
+  game.cpp
+  input.cpp
+  item.cpp
+  life.cpp
+  light.cpp
+  main.cpp
+  meshfield.cpp
+  meshwall.cpp
+  player.cpp
+  result.cpp
+  score.cpp
+  shadow.cpp
+  sound.cpp
+  timer.cpp
+  title.cpp
+  コード生成しています。
+  All 185 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  20171214_niwahako.vcxproj -> C:\Users\panzehong\Documents\Visual Studio 2015\Projects\20171214_niwahako\Release\20171214_niwahako.exe
+  20171214_niwahako.vcxproj -> C:\Users\panzehong\Documents\Visual Studio 2015\Projects\20171214_niwahako\Release\20171214_niwahako.pdb (Full PDB)
